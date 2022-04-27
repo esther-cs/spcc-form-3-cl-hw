@@ -1,8 +1,6 @@
 ## SPCC Form 3 Computer Literacy Homework Solutions (made by Esther Or)
 
-You can use the [editor on GitHub](https://github.com/esther-cs/spcc-form-3-cl-hw/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repo does not serve as a platform form copying solutions, but intead
 
 ### Markdown
 
