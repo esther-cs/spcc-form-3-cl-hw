@@ -11,3 +11,10 @@ same as the target). Let's call this count the waiting length.
 Part 2: The waiting length in part 1 in each trial can be different because of the randomness. Find out
 the minimum and maximum waiting length among 10000 trials (for the same target). Sample
 output.
+
+### T2_Ex2: Selection Sort
+After reading the data, add Python code to sort the data according to
+(a) User ID
+(b) Age
+(c) Height
+In each case, print the median values after the sorting is done.
