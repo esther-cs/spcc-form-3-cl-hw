@@ -1,0 +1,9 @@
+import math
+from math import sqrt
+a=int(input())
+b=int(input())
+c=int(input())
+x_1=(-1*b+math.sqrt(b**2-(4*a*c)))/(2*a)
+x_2=(-1*b-math.sqrt(b**2-(4*a*c)))/(2*a)
+print(x_1)
+print(x_2)
