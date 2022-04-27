@@ -7,6 +7,16 @@ Part 1: Calculate the roots of quadratic equation
 
 Part 2: Heron's Formula
 
+### T1_Ex2: Conditional Statements
+
+Part 1: A supermarket is offering a special sale: 20% off with purchases of $150 or above; 10% off
+with purchases of $100 or above and 5% off with purchases of $50 or above.
+Ask the user to input the total purchase price and store it into the variable total_price.
+Write an if-statement to calculate the discounted price and store it into a variable
+discount_price. Then print out the discounted price to the user.
+
+Part 2: Better Quadratic Solver
+
 ### T2_Ex1: Maximum and Minimum
 Part 1: Ask the user to input an integer (target) between 1 and 1000 (inclusive). Then use Python
 random number generator to generate random values, and count the number of values
