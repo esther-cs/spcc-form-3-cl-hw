@@ -2,6 +2,11 @@
 
 ## Table of Content
 
+### T1_Ex1: Introduction to Python
+Part 1: Calculate the roots of quadratic equation
+
+Part 2: Heron's Formula
+
 ### T2_Ex1: Maximum and Minimum
 Part 1: Ask the user to input an integer (target) between 1 and 1000 (inclusive). Then use Python
 random number generator to generate random values, and count the number of values
