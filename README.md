@@ -18,3 +18,7 @@ After reading the data, add Python code to sort the data according to
 (b) Age
 (c) Height
 In each case, print the median values after the sorting is done.
+
+### T2_Ex3: Functions and Selection Sort
+
+### T2_Ex4: Functions, Selection Sort and Searching
