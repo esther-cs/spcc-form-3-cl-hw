@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SPCC Form 3 Computer Literacy Homework Solutions (made by Esther Or)
 
 You can use the [editor on GitHub](https://github.com/esther-cs/spcc-form-3-cl-hw/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
