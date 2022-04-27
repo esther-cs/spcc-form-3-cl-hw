@@ -1,4 +1,4 @@
-import T2_Ex3_3E_22_mod as mylib
+import mod as mylib
 f = open("userdata.txt", "r")
 alldata = [tuple([int(i) for i in j.split(',')]) for j in f.read().split('\n') if len(j) > 0]
 f.close()
